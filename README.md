@@ -28,11 +28,11 @@ This project involves multiple stages, from data cleaning to machine learning an
 * Created two dashboards using Power BI:
   
        Dashboard 1: Insights and trends based on the original dataset.
-![Screenshot 2024-11-27 165745](https://github.com/user-attachments/assets/5ebd8480-2346-49fa-9d78-c20490e21f98)
+![Screenshot 2024-11-27 165745](https://github.com/user-attachments/assets/d9442222-c564-4e00-9d62-3489f6170412)
 
 
        Dashboard 2: Visualization of the churn prediction results from the ML model.
-![Screenshot 2024-11-27 165801](https://github.com/user-attachments/assets/faae5249-a7c9-4761-ad42-1a4292034755)
+![Screenshot 2024-11-27 165801](https://github.com/user-attachments/assets/6145700c-3950-4944-92c9-2a331dfcb568)
 * Enhanced visuals with filters, slicers, and drill-down options to make the insights actionable.
 
 HOW TO RUN THIS PROJECT-
