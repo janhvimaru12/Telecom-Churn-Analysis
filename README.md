@@ -61,9 +61,9 @@ KEY INSIGHTS-
         Total Predicted Churners: 378
         Predicted Female Churners: 246
         Predicted Male Churners: 132
-*Customers with Month-to-Month contracts dominate the predicted churners (355 churners).
-*Credit Card payment users have the highest predicted churn (192), followed by "Bank Withdrawal" (150).
-*Customers with less than 6 months of tenure exhibit the highest predicted churn (65 churners) whereas tenure of more than 24 months shows 106 predicted churners.
-*Uttar Pradesh, Maharashtra, and Tamil Nadu have the highest number of predicted churners (44, 40, and 37, respectively).
+* Customers with Month-to-Month contracts dominate the predicted churners (355 churners).
+* Credit Card payment users have the highest predicted churn (192), followed by "Bank Withdrawal" (150).
+* Customers with less than 6 months of tenure exhibit the highest predicted churn (65 churners) whereas tenure of more than 24 months shows 106 predicted churners.
+* Uttar Pradesh, Maharashtra, and Tamil Nadu have the highest number of predicted churners (44, 40, and 37, respectively).
 
   
