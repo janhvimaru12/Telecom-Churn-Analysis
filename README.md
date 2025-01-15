@@ -3,8 +3,8 @@ OVERVIEW:
 This project aims to analyze customer churn in the telecom industry, identify key factors contributing to churn, and develop a machine learning model to predict future churn. Additionally, a Power BI dashboard provides visual insights into the data.The workflow demonstrates an end-to-end data analysis pipeline, starting from data extraction and transformation to visualization and machine learning.
 
 TOOLS AND TECHNOLOGIES-
-* Excel: Initial data cleaning and exploration.
 * SQL: Querying and data exploration.
+* MS Excel : Additional data manipulation and summarization
 * Python: Data cleaning, analysis, and machine learning
 * Google Colab: Building and training the machine learning model
 * Power BI: Interactive data visualization.
